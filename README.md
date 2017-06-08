@@ -1,5 +1,5 @@
 # 3DHoPD
-Source code for 3DHoPD: A Fast Low Dimensional 3D Descriptor
+Source code for **3DHoPD: A Fast Low Dimensional 3D Descriptor**
 
 Additional information and comments to the reviewers is available at 
 https://sites.google.com/site/3dhopd/
